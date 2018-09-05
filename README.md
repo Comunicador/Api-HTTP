@@ -142,9 +142,9 @@ Código HTTP:403 | Código:40306 | Descripción: El envío excederá el número 
 
 Código HTTP:403 | Código:40307 | Descripción: El envío está fuera del horario permitido | Reintentar: No
 
-Código HTTP:403 | Código:40308 | Descripción: El mensaje ha sido bloqueado debido a que esta duplicado | Reintentar: No
+Código HTTP:403 | Código:40308 | El mensaje ha sido bloqueado debido a que esta duplicado | Reintentar: No
 
-Código HTTP:403 | Código:40309 | Descripción: El mensaje ha sido bloqueado debido a que el ID de mensaje esta duplicado | Reintentar: No
+Código HTTP:403 | Código:40309 | El mensaje ha sido bloqueado debido a que el ID de mensaje esta duplicado | Reintentar: No
 
 
 
